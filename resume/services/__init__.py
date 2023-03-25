@@ -1,0 +1,5 @@
+from resume.services.achievement import AchievementService
+from resume.services.institute import EducationInstituteService, ProfessionalInstituteService, InstituteService
+from resume.services.ranking import RankingService
+from resume.services.related_information import RelatedInformationService, RelatedInformationImageService
+from resume.services.skill import UserSkillService
